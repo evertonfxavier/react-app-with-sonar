@@ -5,7 +5,6 @@
 - Next.js + Typescript
 - React Native + Typescript
 <br/>
-<br/>
 
 ## 1. Instalar Dependências
 
