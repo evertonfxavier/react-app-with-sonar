@@ -1,9 +1,9 @@
 # Configurando o SonarQube no Projeto Local
 
 ## Testado com:
-- React/Vite + Typescript
-- Next.js + Typescript
-- React Native + Typescript
+- React/Vite + Typescript;
+- Next.js + Typescript; e
+- React Native + Typescript.
 <br/>
 
 ## 1. Instalar Dependências
