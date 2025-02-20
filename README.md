@@ -149,4 +149,3 @@ Pronto! Agora, execute o SonarScanner:
 ```bash
 npm run sonar
 ```
-# react-app-with-sonar
